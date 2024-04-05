@@ -2,4 +2,4 @@
  
 **Objective:** To analyze five datasets from the grocery delivery platform Instacart to provide stakeholders with insights into the shopping habits of Instacart customers. 
 
-**Skills Demonstrated:** Consumer Insight Generation, Data Cleaning, Descriptive Analysis, Exploratory Data Analysis, Market Basket Analysis
+**Skills Demonstrated:** Consumer Insight Generation, Data Preprocessing, Exploratory Data Analysis, Market Basket Analysis
